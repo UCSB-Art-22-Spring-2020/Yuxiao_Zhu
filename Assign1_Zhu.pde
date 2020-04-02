@@ -2,6 +2,6 @@
 //Week 1 coding challange
 //author: Yuxiao Zhu
    
-String name = "Yuxiao";
-println(name);
+String name = "Yuxiao";//create a string variable with my name Yuxiao
+println(name);//print Yuxiao
   
