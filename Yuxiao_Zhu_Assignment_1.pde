@@ -23,11 +23,11 @@ void setup () {
 
   a = 0; //set a to 0
   b = 600; // set b to 600
+  
+  background(69, 69, 101, 120); //set a dark night color background
 }
 
 void draw() {
-  //background(69, 69, 101, 120); //set a dark night color background
-
   //draw a moving moon above
   strokeWeight(8); // 8 picxel thick for stroke
   stroke(255, 255, 255, 150); // white outline with some transparency
