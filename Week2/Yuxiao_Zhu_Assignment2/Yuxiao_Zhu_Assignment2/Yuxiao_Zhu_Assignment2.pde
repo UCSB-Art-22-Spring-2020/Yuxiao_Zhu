@@ -1,5 +1,6 @@
 //Art 22 spring 2020
 //Author: Yuxiao Zhu
+//April 12, 2020
 //Assignment 2
 
 int x, y; //variables for position
